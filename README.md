@@ -14,13 +14,13 @@ An opensource replication of GPT-4 Plus Built on Big-AGI.
 - **Advanced Tools**: Flowchart creation , web searches.
 
 # Website Usage
-- Code-Interpreter : Prefix your question with /aigen to use code-interpreter feature:
+- **Code-Interpreter** : Prefix your question with /aigen to use code-interpreter feature:
 ![image](https://github.com/nextgen-user/Open-GPT-4-PLUS/assets/150797204/586962db-91b2-4ef7-81d2-79a2f74e6e47)
 
-- Image and file Uploads:
+- **Image and file Uploads**:
 Upload Through UI.Clear uploaded images and files though /clear command
 
--More info.
+- **More info**.
 Type /help command to view more.
 
 ### This is in development and complete code and readme will be added soon.
