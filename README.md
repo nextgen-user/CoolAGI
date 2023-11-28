@@ -1,7 +1,7 @@
 # Open-GPT-4-PLUS
 An opensource replication of GPT-4 Plus Built on Big-AGI.
 
-### Try Now at https://coolagi.vercel.app/ ( Works Out of the box , No API Keys Required)
+### Try Now at https://coolagi.vercel.app/ ( Works Out of the box , API Keys already set in server.)
 
 ## ✨ Key Features 👊
 
@@ -13,7 +13,7 @@ An opensource replication of GPT-4 Plus Built on Big-AGI.
 - **Efficient Interaction**: Voice commands, OCR, and drag-and-drop file uploads
 - **Advanced Tools**: Flowchart creation , web searches.
 
-# Website Usage
+# Website Usage 👨‍💻
 - **Code-Interpreter** : Prefix your question with /aigen to use code-interpreter feature:
 ![image](https://github.com/nextgen-user/Open-GPT-4-PLUS/assets/150797204/586962db-91b2-4ef7-81d2-79a2f74e6e47)
 
