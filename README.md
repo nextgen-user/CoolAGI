@@ -5,7 +5,7 @@
 ## ✨ About 
 The website is built on the BIG-AGI GitHub repository, enhancing the functionalities of big-agi—an exceptional GPT user interface. This repository distinguishes itself through the incorporation of free GPT-4 access, coupled with code interpreter features and image analysis capabilities.
 
- ✨ Key Features 👊
+##✨ Key Features 👊
 
 - **Large Files Upload**: Upload any PDF Files!
 - **Image Analysis**: Upload/Paste Any image and ask Related Questions!
