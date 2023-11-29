@@ -1,7 +1,6 @@
-# Open-GPT-4-PLUS
-An opensource replication of GPT-4 Plus Built on Big-AGI.
+![image](https://github.com/nextgen-user/freegpt4plus/assets/150797204/9b0e1232-4791-4d61-b949-16f9eb284c22)
 
-### Try Now at https://coolagi.vercel.app/ ( Works Out of the box , API Keys already set in server.)
+[![Official Website](https://img.shields.io/badge/CoolAGI_Website-%23096bde?style=for-the-badge&logo=vercel&label=launch)](https://coolagi.vercel.app/)
 
 ## ✨ Key Features 👊
 
