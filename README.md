@@ -27,7 +27,9 @@ Upload Through UI.Clear uploaded images and files though /clear command
 - **More info**.
 Type /help command to view more.
 
+## 💖 Support
 
-### This is in development and complete code and readme will be added soon.
+[//]: # ([![Official Discord]&#40;https://img.shields.io/discord/1098796266906980422?label=discord&logo=discord&logoColor=%23fff&style=for-the-badge&#41;]&#40;https://discord.gg/MkH4qj2Jp9&#41;)
+[![Official Discord](https://discordapp.com/api/guilds/1098796266906980422/widget.png?style=banner2)](https://discord.gg/A72Xecap)
 
-
+## ⌛This Project is in development. Complete Code will be added soon, along with an option to deploy / self-host.
