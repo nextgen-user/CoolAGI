@@ -25,8 +25,7 @@ Upload Through UI.Clear uploaded images and files though /clear command
 - **More info**.
 Type /help command to view more.
 
-## 💖 Credits
-The website frontend is built on **[BIG-AGI](https://github.com/enricoros/big-agi)**.Special thanks to @enricoros for providing a great LLM UI.
+
 ### This is in development and complete code and readme will be added soon.
 
 
