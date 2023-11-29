@@ -18,7 +18,7 @@ The website is built on the BIG-AGI GitHub repository, enhancing the functionali
 # Website Usage 👨‍💻
 > [!Note]
 > API HOST and KEYS already Set in server as Hosted OPENAI Reverse free proxy. No need to set that! 
-- **Code-Interpreter** : Prefix your question with /aigen to use code-interpreter feature:
+- **Code-Interpreter** : Prefix your question with /aigen to use code-interpreter feature. Example **Usage** :
 ![image](https://github.com/nextgen-user/CoolAGI/assets/150797204/6d1df6d3-b601-42c3-bfd1-f719487e185f)
 
 - **Image and file Uploads**:
