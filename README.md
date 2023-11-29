@@ -2,7 +2,10 @@
 
 [![Official Website](https://img.shields.io/badge/CoolAGI_Website-%23096bde?style=for-the-badge&logo=vercel&label=launch)](https://coolagi.vercel.app/)
 
-## ✨ Key Features 👊
+## ✨ About 
+The website is built on the BIG-AGI GitHub repository, enhancing the functionalities of big-agi—an exceptional GPT user interface. This repository distinguishes itself through the incorporation of free GPT-4 access, coupled with code interpreter features and image analysis capabilities.
+
+ ✨ Key Features 👊
 
 - **Large Files Upload**: Upload any PDF Files!
 - **Image Analysis**: Upload/Paste Any image and ask Related Questions!
@@ -22,6 +25,8 @@ Upload Through UI.Clear uploaded images and files though /clear command
 - **More info**.
 Type /help command to view more.
 
+## 💖 Credits
+The website frontend is built on **[BIG-AGI](https://github.com/enricoros/big-agi)**.Special thanks to @enricoros for providing a great LLM UI.
 ### This is in development and complete code and readme will be added soon.
 
 
