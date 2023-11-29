@@ -16,6 +16,8 @@ The website is built on the BIG-AGI GitHub repository, enhancing the functionali
 - **Advanced Tools**: Flowchart creation , web searches.
 
 # Website Usage 👨‍💻
+> [!Note]
+> API HOST and KEYS already Set in server as Hosted OPENAI Reverse free proxy. No need to set that! 
 - **Code-Interpreter** : Prefix your question with /aigen to use code-interpreter feature:
 ![image](https://github.com/nextgen-user/Open-GPT-4-PLUS/assets/150797204/586962db-91b2-4ef7-81d2-79a2f74e6e47)
 
