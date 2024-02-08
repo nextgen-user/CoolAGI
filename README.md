@@ -8,7 +8,7 @@ Welcome aboard the CoolAGI spaceship, an extension of big-agi, where we're pushi
 
 This repository distinguishes itself from big-agi with **additional experimental features** such as **inbuilt AI code-sandbox,image recognition support (gpt-4-vision),Mindmap creation,Web searches ,Advanced Data Analytics,Large Data Handling** and so much More!!
 
-## 🎇 Code Interpreter Demo:
+## ✨ Code Interpreter Demo:
 ![Example](https://github.com/nextgen-user/CoolAGI/blob/main/Examples/code-interpreter-example.gif)
 
 > [!Note]
@@ -24,7 +24,7 @@ This repository distinguishes itself from big-agi with **additional experimental
 - **Free**: No need to pay for gpt-4-usage. It's like a limitless universe of possibilities!
 
 # 🌌 Usage 🌌
-
+Refer to demo videos in [examples](https://github.com/nextgen-user/CoolAGI/tree/main/Examples)
 - **Code-Interpreter** : Prefix your question with  ```/aigen``` to use the code-interpreter feature. 
 - **Image and file Uploads**: Upload images for recognition through the camera interface or by clicking the upload button. Images will be uploaded as Inline HTML Embed (Text format).
 - **Mindmap and graph creation**: Available Graph commands are: ```/mindmap /flowchart /complexchart /linechart /branchchart /timeline. ```
