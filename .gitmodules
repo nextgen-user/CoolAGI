@@ -1,0 +1,3 @@
+[submodule "big-agi"]
+	path = big-agi
+	url = https://github.com/vaibhavard/big-agi
