@@ -3,10 +3,11 @@
 [![Official Website](https://img.shields.io/badge/CoolAGI_Website-%23096bde?style=for-the-badge&logo=vercel&label=launch)](https://coolagi.vercel.app/)
 
 # 🚀 CoolAGI: Where AI meets Imagination 🌌
+A Free and Opensource alternative to OpenAI GPT-4 Plus packed with a powerful code-interpreter and a great UI.
 
-Welcome aboard the CoolAGI spaceship, an extension of big-agi, where we're pushing the boundaries of what's possible with GPT user interfaces. We've taken the brilliance of big-agi and sprinkled in some CoolAGI magic dust, resulting in a constellation of **experimental features** that will make your AI journey truly out of this world!
+CoolAGI is the next-gen AI App with lots of **experimental features** like **inbuilt AI code-sandbox , image recognition support (gpt-4-vision) , Mindmap creation , Web searches , Advanced Data Analytics , Large Data Handling** and so much More!!
 
-This repository distinguishes itself from big-agi with **additional experimental features** such as **inbuilt AI code-sandbox,image recognition support (gpt-4-vision),Mindmap creation,Web searches ,Advanced Data Analytics,Large Data Handling** and so much More!!
+CoolAGI's UI  is built on [big-agi](https://github.com/enricoros/big-AGI) . Special thanks 💖 to [enricoros](https://github.com/enricoros).
 
 ## ✨ Code Interpreter Demo:
 ![Example](https://github.com/nextgen-user/CoolAGI/blob/main/Examples/code-interpreter-example.gif)
