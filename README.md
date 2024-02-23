@@ -26,7 +26,7 @@ CoolAGI's UI  is built on [big-agi](https://github.com/enricoros/big-AGI) . Spec
 
 # 🌌 Usage 🌌
 Refer to demo videos in [examples](https://github.com/nextgen-user/CoolAGI/tree/main/Examples)
-- **Code-Interpreter** : Prefix your question with  ```/aigen``` to use the code-interpreter feature. 
+- **Code-Interpreter** : Use the Developer+ persona to use the code-interpreter feature. 
 - **Image and file Uploads**: Upload images for recognition through the camera interface or by clicking the upload button. Images will be uploaded as Inline HTML Embed (Text format).
 - **Mindmap and graph creation**: Available Graph commands are: ```/mindmap /flowchart /complexchart /linechart /branchchart /timeline. ```
 
