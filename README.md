@@ -10,7 +10,7 @@ CoolAGI is the next-gen AI App with lots of **experimental features** like **inb
 CoolAGI's UI  is built on [big-agi](https://github.com/enricoros/big-AGI) . Special thanks 💖 to [enricoros](https://github.com/enricoros).
 
 ## ✨ Code Interpreter Demo:
-![Example](https://github.com/nextgen-user/CoolAGI/blob/main/Examples/code-interpreter-example.gif)
+![Example](https://github.com/nextgen-user/CoolAGI/blob/main/Examples/code-interpreter-example-main.gif)
 
 > [!Note]
 > CoolAGI is like a free ride on a shooting star. We use reverse-engineered providers, so no API keys required. Hop on!
